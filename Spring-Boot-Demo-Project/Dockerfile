@@ -1,5 +1,4 @@
 FROM openjdk:17-jdk-slim
-WORKDIR /app
 EXPOSE 8080
-COPY target/spring-boot-docker.jar spring-boot-docker.jar
-ENTRYPOINT ["java","-jar","/spring-boot-docker.jar"]
+COPY target/Spring-Boot-Demo-Project-0.0.1-SNAPSHOT.jar Spring-Boot-Demo-Project-0.0.1-SNAPSHOT.jar
+ENTRYPOINVT ["java","-jar","/Spring-Boot-Demo-Project-0.0.1-SNAPSHOT.jar"]
