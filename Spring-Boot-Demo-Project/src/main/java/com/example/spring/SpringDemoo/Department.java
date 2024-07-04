@@ -34,10 +34,10 @@ public class Department {
  private String departmentCode;
  
   
- public Department() {
-		super();
+ //public Department() {
+	//	super();
 		// TODO Auto-generated constructor stub
-	}
+	//}
  @DynamoDbPartitionKey
  @DynamoDbAttribute("id")
 public Long getDepartmentId() {
