@@ -37,7 +37,7 @@ public class Department {
  //public Department() {
 	//	super();
 		// TODO Auto-generated constructor stub
-	//}
+//	}
  @DynamoDbPartitionKey
  @DynamoDbAttribute("id")
 public Long getDepartmentId() {

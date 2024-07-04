@@ -1,0 +1,9 @@
+com\example\spring\SpringDemoo\SpringDemooApplication.class
+com\example\spring\SpringDemoo\Department$DepartmentBuilder.class
+com\example\spring\SpringDemoo\Department.class
+com\example\spring\SpringDemoo\DynamoDbConfig.class
+com\example\spring\SpringDemoo\DepartmentServiceImpl.class
+com\example\spring\SpringDemoo\DepartmentController.class
+com\example\spring\SpringDemoo\DepartmentRepository.class
+com\example\spring\SpringDemoo\DepartmentService.class
+com\example\spring\SpringDemoo\CreateDynamoDbTable.class
